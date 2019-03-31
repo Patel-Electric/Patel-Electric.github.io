@@ -1,0 +1,16 @@
+
+# HTID:2204265: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:2204265:
+
+
+
+# HTID:6239069: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www.)?(patelelectric.in|www.patelelectric.in|patel-electric.000webhostapp.com)(/)?.*$      [NC]
+RewriteRule .*.(.*)$ http://patelelectric.in [R,NC]
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:6239069:
+
+# HTID:6359005: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+Redirect 302 /home http://patelelectric.in
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:6359005:
