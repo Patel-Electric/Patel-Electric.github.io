@@ -4,5 +4,5 @@
 # patelelectric
 My Sample Business Website
 * https://adminvns.github.io/patelelectric/   --Experimental (depriciated)
-* https://patelelectric.in/   --Dev Website
-* https://patelelectric.org  --Organisation Production Website
+* https://patel-electric.github.io/   --Dev Website
+* https://patelelectric.in  --Organisation Production Website
