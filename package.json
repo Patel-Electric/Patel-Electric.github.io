@@ -1,8 +1,8 @@
 {
-    "title": "New Age",
-    "name": "startbootstrap-new-age",
+    "title": "Home",
+    "name": "Patel Electric",
     "version": "4.1.1",
-    "description": "A one page app landing page HTML theme for Bootstrap.",
+    "description": ".",
     "keywords": [
         "css",
         "sass",
@@ -11,19 +11,19 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/new-age",
+    "homepage": "",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-new-age/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://patelelectric.in/",
+        "email": "support@patelelectric.in"
     },
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Shubham Singh"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-new-age.git"
+        "url": "https://github.com/"
     },
     "dependencies": {
         "bootstrap": "4.1.1",
